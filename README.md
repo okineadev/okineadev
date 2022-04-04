@@ -1,6 +1,6 @@
 ### Хай 👋
 
-![](https://raw.githubusercontent.com/BogdanDevUA/Ukraine/main/poltava_embroidery3.svg)
+![](https://raw.githubusercontent.com/BogdanDevUA/Ukraine/main/5.svg)
 
 #### Я Богдан, Слава Україні!:ukraine:
 
