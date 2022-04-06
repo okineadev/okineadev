@@ -7,6 +7,7 @@
     <img src="https://raw.githubusercontent.com/BogdanDevUA/Ukraine/main/5.svg">
     <h4>Я Богдан, Слава Україні!:ukraine:</h4>
     <h4>I'm Bogdan, Glory Ukraine!:ukraine:</h4>
+    <a href="https://t.me/dirim"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-blue.svg?style=flat-square&logo=telegram"></a>
     <p>Інструкція по отриманню сервера на <b>Play With Docker</b> -> https://telegra.ph/Server-dlya-DDoS-na-Docker-04-01<p>
     <img src="https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg">
     <p></p>
