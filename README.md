@@ -12,7 +12,7 @@
     <p>Інструкція по отриманню сервера на <b>Play With Docker</b> -> https://telegra.ph/Server-dlya-DDoS-na-Docker-04-01<p>
     <img src="https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg">
     <p></p>
-    <img src="https://github-readme-stats.vercel.app/api?username=BogdanDevUA&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+    <img src="https://github-readme-stats.vercel.app/api?username=BogdanDevUA&&show_icons=true&title_color=ffffff&icon_color=fff&text_color=0ef&bg_color=000" width="60%">
     <p></p>
     <img src="https://github.com/voku/portable-ascii/actions/workflows/ci.yml/badge.svg?branch=master">
   </body>
