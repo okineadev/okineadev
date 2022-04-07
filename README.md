@@ -1,7 +1,4 @@
 <html>
-  <head>
-    <meta tag="sjfk">
-  </head>
   <body>
     <h3>Хай 👋</h3>
     <img src="https://raw.githubusercontent.com/BogdanDevUA/Ukraine/main/5.svg">
