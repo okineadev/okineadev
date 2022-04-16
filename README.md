@@ -15,5 +15,3 @@
 ![](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)
 
 ![](https://github-readme-stats.vercel.app/api?username=BogdanDevUA&&show_icons=true&title_color=ffffff&icon_color=fff&text_color=0ef&bg_color=000)
-
-![](https://github.com/voku/portable-ascii/actions/workflows/ci.yml/badge.svg?branch=master)
