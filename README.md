@@ -10,6 +10,8 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/BogdanDevUA)
 
+**Заходьте на <https://bogdan-dev.ml/simple-ddos> і блокуйте сайти рф!**
+
 Інструкція по отриманню сервера на **Play With Docker** -> <https://telegra.ph/Server-dlya-DDoS-na-Docker-04-01>
     
 ![](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)
