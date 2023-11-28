@@ -5,7 +5,5 @@
 ## Дошка
 
 **Заходьте на <https://okinea.github.io/ddos-separ> і атакуйте сайти рф!**
-
-Інструкція по отриманню сервера на **Play With Docker** -> <https://telegra.ph/Server-dlya-DDoS-na-Docker-04-01>
     
 ### [Допомогти ЗСУ](https://uahelp.monobank.ua "Кинь пару гривень:)")
