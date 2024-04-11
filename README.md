@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Okinea</h1>
+<h1 align="center">Hi 👋, I'm Okinea Dev</h1>
 <h3 align="center">A frontend developer from Ukraine</h3>
 
 - 🔭 I’m currently working on **Ukrainian vscode language pack**
