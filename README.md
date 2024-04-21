@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Okinea Dev</h1>
 <h3 align="center">A frontend developer from Ukraine</h3>
 
-- 🔭 I’m currently working on **Ukrainian vscode language pack**
+- 🔭 I’m currently working on [**dotload**](https://github.com/okineadev/dotload)
 
 - 🌱 I’m currently learning **Vue**
 
