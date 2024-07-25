@@ -1,13 +1,14 @@
-<h1 align="center">Hi 👋, I'm Okinea Dev</h1>
-<h3 align="center">A frontend developer from Ukraine</h3>
+<img align="right" width="550" src="https://raw.githubusercontent.com/okineadev/okineadev-website/main/images/bubbles.webp">
 
-- 🔭 I’m currently working on [**dotload**](https://github.com/okineadev/dotload)
+<h1>Hi 👋, I'm Okinea Dev</h1>
+<h3>A frontend developer from Ukraine</h3>
 
-- 🌱 I’m currently learning **Vue**
-
-- 💬 Ask me about **Linux, Hardware,Web development**
-
-- ⚡ Fun fact **tcaf nuF**
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 <h3 align="left">Connect with me:</h3>
 
