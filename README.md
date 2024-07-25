@@ -1,4 +1,4 @@
-<img align="right" width="550" src="https://raw.githubusercontent.com/okineadev/okineadev-website/main/images/bubbles.webp">
+<img align="right" width="500" src="https://raw.githubusercontent.com/okineadev/okineadev-website/main/images/bubbles.webp">
 
 <h1>Hi 👋, I'm Okinea Dev</h1>
 <h3>A frontend developer from Ukraine</h3>
