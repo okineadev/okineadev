@@ -86,8 +86,11 @@ I create and when I have time help open source projects like [vscode-material-ic
 ## Social
 
 <div align="left">
-  <a href="https://t.me/okinea"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  /></a>
-  <a href="https://discordapp.com/users/okineadev"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  /></a>
-  <a href="https://medium.com/@okineadev"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo"  /></a>
-  <a href="https://stackoverflow.com/users/21165921/simpledev"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo"  /></a>
+  <a href="https://t.me/okinea"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" height="40" alt="telegram logo"  /></a>
+  <img width="12" />
+  <a href="https://discordapp.com/users/okineadev"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" height="40" alt="discord logo"  /></a>
+  <img width="12" />
+  <a href="https://medium.com/@okineadev"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" height="40" alt="medium logo"  /></a>
+  <img width="12" />
+  <a href="https://stackoverflow.com/users/21165921/simpledev"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" height="40" alt="stackoverflow logo"  /></a>
 </div>
