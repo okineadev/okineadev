@@ -3,6 +3,8 @@
 <h1>Hi 👋, I'm Okinea Dev</h1>
 <h3>A developer from Ukraine</h3>
 
+[![I use Bun](https://img.shields.io/badge/-I_use_bun-%23fbf0df?style=flat&logo=Bun&logoColor=%23fbf0df&labelColor=black)](https://bun.sh)
+
 <br/>
 <br/>
 <br/>
@@ -13,7 +15,7 @@
 <br/>
 <br/>
 
-<h2 align="left">Skills</h2>
+<h2>Skills</h2>
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
