@@ -5,10 +5,10 @@
 
 [![I use Bun](https://img.shields.io/badge/-I_use_Bun-%23fbf0df?logo=Bun&logoColor=%23fbf0df&labelColor=black)](https://bun.sh)
 
-<br/>
-<br/>
-<br/>
-<br/>
+I do web development and scripting in Python and Bash, and I'm also good at automating with GitHub Actions
+
+I create and when I have time help open source projects like [vscode-material-icon-theme](https://github.com/material-extensions/vscode-material-icon-theme) and [tldr](https://github.com/tldr-pages/tldr)
+
 <br/>
 <br/>
 <br/>
