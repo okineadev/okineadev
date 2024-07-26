@@ -3,7 +3,7 @@
 <h1>Hi 👋, I'm Okinea Dev</h1>
 <h3>A developer from Ukraine</h3>
 
-[![I use Bun](https://img.shields.io/badge/-I_use_bun-%23fbf0df?style=flat&logo=Bun&logoColor=%23fbf0df&labelColor=black)](https://bun.sh)
+[![I use Bun](https://img.shields.io/badge/-I_use_Bun-%23fbf0df?logo=Bun&logoColor=%23fbf0df&labelColor=black)](https://bun.sh)
 
 <br/>
 <br/>
@@ -69,6 +69,8 @@
   <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="sqlite logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=regex" height="40" alt="regex logo"  />
+  <img width="12" />
+  <img src="https://user-images.githubusercontent.com/709451/182802334-d9c42afe-f35d-4a7b-86ea-9985f73f20c3.png" height="40" alt="Bun logo">
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
   <img width="12" />
