@@ -5,13 +5,13 @@
 
 [![I use Bun](https://img.shields.io/badge/-I_use_Bun-%23fbf0df?logo=Bun&logoColor=%23fbf0df&labelColor=black)](https://bun.sh)
 
-I do web development and scripting in Python and Bash, and I'm also good at automating with GitHub Actions
+My name is **Yura**, I'm 16 y.o. and I do web development and scripting in **Python** and **Bash**, and I'm good at automating with **GitHub Actions**
 
 I create and when I have time help open source projects like [vscode-material-icon-theme](https://github.com/material-extensions/vscode-material-icon-theme) and [tldr](https://github.com/tldr-pages/tldr)
 
 <br/>
 
-<h2>Skills</h2>
+## Skills
 
 <div align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo" /></a>
@@ -81,4 +81,13 @@ I create and when I have time help open source projects like [vscode-material-ic
   <a href="https://developer.mozilla.org/docs/Web/SVG"><img src="https://skillicons.dev/icons?i=svg" height="40" alt="svg logo"  /></a>
   <img width="12" />
   <a href="https://inkscape.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg" height="40" alt="inkscape logo"  /></a>
+</div>
+
+## Social
+
+<div align="left">
+  <a href="https://t.me/okinea"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  /></a>
+  <a href="https://discordapp.com/users/okineadev"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  /></a>
+  <a href="https://medium.com/@okineadev"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo"  /></a>
+  <a href="https://stackoverflow.com/users/21165921/simpledev"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo"  /></a>
 </div>
