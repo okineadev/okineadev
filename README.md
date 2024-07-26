@@ -10,10 +10,6 @@ I do web development and scripting in Python and Bash, and I'm also good at auto
 I create and when I have time help open source projects like [vscode-material-icon-theme](https://github.com/material-extensions/vscode-material-icon-theme) and [tldr](https://github.com/tldr-pages/tldr)
 
 <br/>
-<br/>
-<br/>
-<br/>
-<br/>
 
 <h2>Skills</h2>
 
