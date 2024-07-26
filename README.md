@@ -78,6 +78,8 @@
   <img width="12" />
   <a href="https://developer.android.com/"><img src="https://cdn.simpleicons.org/android/3DDC84" height="40" alt="android logo"  /></a>
   <img width="12" />
+  <a href="https://www.adobe.com/products/photoshop.html"><img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  /></a>
+  <img width="12" />
   <a href="https://www.canva.com/"><img src="https://cdn.simpleicons.org/canva/00C4CC" height="40" alt="canva logo"  /></a>
   <img width="12" />
   <a href="https://developer.mozilla.org/docs/Web/SVG"><img src="https://skillicons.dev/icons?i=svg" height="40" alt="svg logo"  /></a>
