@@ -70,7 +70,7 @@
   <img width="12" />
   <a href="https://docs.python.org/3/library/re.html"><img src="https://skillicons.dev/icons?i=regex" height="40" alt="regex logo"  /></a>
   <img width="12" />
-  <a href="https://bun.sh/"><img src="https://user-images.githubusercontent.com/709451/182802334-d9c42afe-f35d-4a7b-86ea-9985f73f20c3.png" height="40" alt="Bun logo"></a>
+  <a href="https://bun.sh/"><img src="https://user-images.githubusercontent.com/709451/182802334-d9c42afe-f35d-4a7b-86ea-9985f73f20c3.png" width="40" alt="Bun logo"></a>
   <img width="12" />
   <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  /></a>
   <img width="12" />
