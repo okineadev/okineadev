@@ -7,7 +7,7 @@
 
 My name is **Yura**, I'm 16 y.o. and I do web development and scripting in **Python** and **Bash**, and I'm good at automating with **GitHub Actions**
 
-I create and when I have time help open source projects like [vscode-material-icon-theme](https://github.com/material-extensions/vscode-material-icon-theme) and [tldr](https://github.com/tldr-pages/tldr)
+I create open source projects and if I have time, I sponsor or help other open source projects such as [vscode-material-icon-theme](https://github.com/material-extensions/vscode-material-icon-theme) and [tldr](https://github.com/tldr-pages/tldr)
 
 I also have my own website, you can view it at this address: [okinea.website](https://okinea.website/)
 
