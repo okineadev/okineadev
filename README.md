@@ -62,7 +62,7 @@ I create and when I have time help open source projects like [vscode-material-ic
   <img width="12" height="0" />
   <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  /></a>
   <img width="12" height="0" />
-  <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="sqlite logo"  />
+  <a><img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="sqlite logo"  /></a>
   <img width="12" height="0" />
   <a href="https://docs.python.org/3/library/re.html"><img src="https://skillicons.dev/icons?i=regex" height="40" alt="regex logo"  /></a>
   <img width="12" height="0" />
