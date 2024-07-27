@@ -1,11 +1,12 @@
 <img align="right" width="450" src="assets/bubbles.webp">
 
 # Hi <img align="bottom" src="https://raw.githubusercontent.com/okineadev/okineadev-website/main/emojis/hello.webp" alt="Hello" width="28">, I'm Okinea Dev
-<h3>A developer from Ukraine <img align="top" src="https://raw.githubusercontent.com/okineadev/okineadev-website/main/emojis/ua-flag.webp" alt="UA Flag" width="24"></h3>
+
+### A developer from Ukraine <img align="top" src="https://raw.githubusercontent.com/okineadev/okineadev-website/main/emojis/ua-flag.webp" alt="UA Flag" width="24"></h3>
 
 [![I use Bun](https://img.shields.io/badge/-I_use_Bun-%23fbf0df?logo=Bun&logoColor=%23fbf0df&labelColor=black)](https://bun.sh)
 
-My name is **Yura**, I'm 16 y.o. and I do web development and scripting in **Python** and **Bash**, and I'm good at automating with **GitHub Actions**
+My name is **Yura**, I'm 16 y.o. and I do web development and coding in **Python** and **Bash**, and I'm good at automating with **GitHub Actions**
 
 I create and when I have time help open source projects like [vscode-material-icon-theme](https://github.com/material-extensions/vscode-material-icon-theme) and [tldr](https://github.com/tldr-pages/tldr)
 
