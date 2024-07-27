@@ -9,7 +9,7 @@ My name is **Yura**, I'm 16 y.o. and I do web development and scripting in **Pyt
 
 I create and when I have time help open source projects like [vscode-material-icon-theme](https://github.com/material-extensions/vscode-material-icon-theme) and [tldr](https://github.com/tldr-pages/tldr)
 
-<br/>
+I also have my own website, you can view it at this address: [okinea.website](https://okinea.website/)
 
 ## Skills
 
