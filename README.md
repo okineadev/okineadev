@@ -33,14 +33,14 @@ I also have my own website, you can view it at this address: [okinea.website](ht
   <a href="https://wikipedia.org/wiki/Bash"><img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  /></a>&nbsp;
   <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  /></a>&nbsp;
   <a href="https://wikipedia.org/wiki/Linux"><img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  /></a>&nbsp;
-  <a href="https://ubuntu.com/"><img src="https://cdn.simpleicons.org/ubuntu/E95420" height="40" alt="ubuntu logo"  /></a>&nbsp;
+  <a href="https://ubuntu.com/"><img src="https://skillicons.dev/icons?i=ubuntu" height="40" alt="ubuntu logo"  /></a>&nbsp;
   <a href="https://cloud.google.com/"><img src="https://skillicons.dev/icons?i=gcp" height="40" alt="googlecloud logo"  /></a>&nbsp;
   <a href="https://www.digitalocean.com/"><img src="https://cdn.simpleicons.org/digitalocean/0080FF" height="40" alt="digitalocean logo"  /></a>&nbsp;
   <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  /></a>&nbsp;
   <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  /></a>&nbsp;
   <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="sqlite logo">&nbsp;
   <a href="https://docs.python.org/3/library/re.html"><img src="https://skillicons.dev/icons?i=regex" height="40" alt="regex logo"  /></a>&nbsp;
-  <a href="https://bun.sh/"><img src="https://user-images.githubusercontent.com/709451/182802334-d9c42afe-f35d-4a7b-86ea-9985f73f20c3.png" width="40" alt="Bun logo"></a>&nbsp;
+  <a href="https://bun.sh/"><img src="https://skillicons.dev/icons?i=bun" width="40" alt="Bun logo"></a>&nbsp;
   <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  /></a>&nbsp;
   <a href="https://www.electronjs.org/"><img src="https://skillicons.dev/icons?i=electron" height="40" alt="electron logo"  /></a>&nbsp;
   <a href="https://developer.android.com/"><img src="https://cdn.simpleicons.org/android/3DDC84" height="40" alt="android logo"  /></a>&nbsp;
@@ -54,7 +54,7 @@ I also have my own website, you can view it at this address: [okinea.website](ht
 
 <div align="left">
   <a href="https://t.me/okinea"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" height="40" alt="telegram logo"  /></a>&nbsp;
-  <a href="https://discordapp.com/users/okineadev"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" height="40" alt="discord logo"  /></a>&nbsp;
+  <a href="https://discordapp.com/users/okineadev"><img src="https://skillicons.dev/icons?i=discord" height="40" alt="discord logo"  /></a>&nbsp;
   <a href="https://medium.com/@okineadev"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" height="40" alt="medium logo"  /></a>&nbsp;
-  <a href="https://stackoverflow.com/users/21165921/simpledev"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" height="40" alt="stackoverflow logo"  /></a>
+  <a href="https://stackoverflow.com/users/21165921/simpledev"><img src="https://skillicons.dev/icons?i=stackoverflow" height="40" alt="stackoverflow logo"  /></a>
 </div>
