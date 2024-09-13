@@ -11,6 +11,11 @@ I create open source projects and if I have time, I sponsor or help other open s
 
 I also have my own website, you can view it at this address: [okinea.website](https://okinea.website/)
 
+### Read my latest posts on [**Medium**](https://okineadev.medium.com/):
+
+| [**How to get a free macOS machine for testing?**](https://okineadev.medium.com/how-to-get-a-free-macos-machine-for-testing-b2f6c72415fd) <br> <sub>It happens that you have created a program and want to test it <br> on different operating systems (including macOS) but if ...</sub> | [<img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/0*Q2Fal4qTIXomyZTI" height="90">](https://okineadev.medium.com/how-to-get-a-free-macos-machine-for-testing-b2f6c72415fd) |
+| :-- | :-: |
+
 ## Skills
 
 <div align="left">
