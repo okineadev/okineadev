@@ -20,6 +20,7 @@ I also have my own website, you can view it at this address: [okinea.website](ht
 ## Skills
 
 <div align="left">
+  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  /></a>&nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo" /></a>&nbsp;
   <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  /></a>&nbsp;
   <a href="https://developer.mozilla.org/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  /></a>&nbsp;
@@ -33,27 +34,15 @@ I also have my own website, you can view it at this address: [okinea.website](ht
   <a href="https://vitejs.dev/"><img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  /></a>&nbsp;
   <a href="https://webpack.js.org/"><img src="https://skillicons.dev/icons?i=webpack" height="40" alt="webpack logo"  /></a>&nbsp;
   <a href="https://gulpjs.com/"><img src="https://skillicons.dev/icons?i=gulp" height="40" alt="gulp logo"  /></a>&nbsp;
-  <a href="https://vercel.com/"><img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  /></a>&nbsp;
   <a href="https://github.com/features/actions"><img src="https://skillicons.dev/icons?i=githubactions" height="40" alt="githubactions logo"  /></a>&nbsp;
-  <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  /></a>&nbsp;
-  <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  /></a>&nbsp;
   <a href="https://wikipedia.org/wiki/Bash"><img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  /></a>&nbsp;
   <a href="https://learn.microsoft.com/powershell/"><img src="https://skillicons.dev/icons?i=powershell" height="40" alt="PowerShell logo"  /></a>&nbsp;
   <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  /></a>&nbsp;
   <a href="https://wikipedia.org/wiki/Linux"><img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  /></a>&nbsp;
-  <a href="https://ubuntu.com/"><img src="https://skillicons.dev/icons?i=ubuntu" height="40" alt="ubuntu logo"  /></a>&nbsp;
-  <a href="https://cloud.google.com/"><img src="https://skillicons.dev/icons?i=gcp" height="40" alt="googlecloud logo"  /></a>&nbsp;
-  <a href="https://www.digitalocean.com/"><img src="https://cdn.simpleicons.org/digitalocean/0080FF" height="40" alt="digitalocean logo"  /></a>&nbsp;
-  <a href="https://azure.microsoft.com"><img src="https://skillicons.dev/icons?i=azure" height="40" alt="Microsoft Azure logo"  /></a>
+  <a href="https://ubuntu.com/"><img src="https://skillicons.dev/icons?i=ubuntu" alt="ubuntu logo" width="45" height="45"  /></a>&nbsp;
   <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  /></a>&nbsp;
-  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  /></a>&nbsp;
   <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="sqlite logo">&nbsp;
-  <a href="https://docs.python.org/3/library/re.html"><img src="https://skillicons.dev/icons?i=regex" height="40" alt="regex logo"  /></a>&nbsp;
-  <a href="https://bun.sh/"><img src="https://skillicons.dev/icons?i=bun" width="40" alt="Bun logo"></a>&nbsp;
-  <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  /></a>&nbsp;
   <a href="https://www.electronjs.org/"><img src="https://skillicons.dev/icons?i=electron" height="40" alt="electron logo"  /></a>&nbsp;
-  <a href="https://developer.android.com/"><img src="https://cdn.simpleicons.org/android/3DDC84" height="40" alt="android logo"  /></a>&nbsp;
-  <a href="https://www.adobe.com/products/photoshop.html"><img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  /></a>&nbsp;
 </div>
 
 ## Social
