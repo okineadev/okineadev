@@ -1,7 +1,7 @@
 <img align="right" width="450" src="assets/bubbles.webp">
 
-# Hi <img align="bottom" src="https://raw.githubusercontent.com/okineadev/okineadev-website/main/emojis/hello.webp" alt="Hello" width="28">, I'm Okinea Dev
-<h3>A developer from Ukraine <img align="top" src="https://raw.githubusercontent.com/okineadev/okineadev-website/main/emojis/ua-flag.webp" alt="UA Flag" height="24"></h3>
+# Hi <img align="bottom" src="https://raw.githubusercontent.com/okineadev/okineadev-website/main/src/emojis/hello.webp" alt="Hello" width="28">, I'm Okinea Dev
+<h3>A developer from Ukraine <img align="top" src="https://raw.githubusercontent.com/okineadev/okineadev-website/main/src/emojis/ua-flag.webp" alt="UA Flag" height="24"></h3>
 
 [![I use Bun](https://img.shields.io/badge/-I_use_Bun-%23fbf0df?logo=Bun&logoColor=%23fbf0df&labelColor=black)](https://bun.sh)
 
