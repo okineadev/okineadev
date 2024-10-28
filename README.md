@@ -48,7 +48,7 @@ I also have my own website, you can view it at this address: [okinea.dev](https:
 ## Social
 
 <div align="left">
-  <a href="https://t.me/okinea"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" height="40" alt="telegram logo"  /></a>&nbsp;
+  <a href="https://t.me/stadius_lucioni"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" height="40" alt="telegram logo"  /></a>&nbsp;
   <a href="https://discordapp.com/users/okineadev"><img src="https://skillicons.dev/icons?i=discord" height="40" alt="discord logo"  /></a>&nbsp;
   <a href="https://stackoverflow.com/users/21165921/simpledev"><img src="https://skillicons.dev/icons?i=stackoverflow" height="40" alt="stackoverflow logo"  /></a>
 </div>
