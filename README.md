@@ -20,35 +20,35 @@ I also have my own website, you can view it at this address: [okinea.dev](https:
 ## Skills
 
 <div align="left">
-  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  /></a>&nbsp;
+  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"/></a>&nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo" /></a>&nbsp;
-  <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  /></a>&nbsp;
-  <a href="https://developer.mozilla.org/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  /></a>&nbsp;
-  <a href="https://jquery.com/"><img src="https://skillicons.dev/icons?i=jquery" height="40" alt="jquery logo"  /></a>&nbsp;
-  <a href="https://developer.mozilla.org/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  /></a>&nbsp;
-  <a href="https://getbootstrap.com/"><img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  /></a>&nbsp;
-  <a href="https://sass-lang.com/"><img src="https://skillicons.dev/icons?i=sass" height="40" alt="sass logo"  /></a>&nbsp;
-  <a href="https://vuejs.org/"><img src="https://skillicons.dev/icons?i=vue" height="40" alt="vuejs logo"  /></a>&nbsp;
-  <a href="https://babeljs.io/"><img src="https://skillicons.dev/icons?i=babel" height="40" alt="babel logo"  /></a>&nbsp;
-  <a href="https://jestjs.io/"><img src="https://skillicons.dev/icons?i=jest" height="40" alt="jest logo"  /></a>&nbsp;
-  <a href="https://vitejs.dev/"><img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  /></a>&nbsp;
-  <a href="https://webpack.js.org/"><img src="https://skillicons.dev/icons?i=webpack" height="40" alt="webpack logo"  /></a>&nbsp;
-  <a href="https://gulpjs.com/"><img src="https://skillicons.dev/icons?i=gulp" height="40" alt="gulp logo"  /></a>&nbsp;
-  <a href="https://github.com/features/actions"><img src="https://skillicons.dev/icons?i=githubactions" height="40" alt="githubactions logo"  /></a>&nbsp;
-  <a href="https://wikipedia.org/wiki/Bash"><img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  /></a>&nbsp;
-  <a href="https://learn.microsoft.com/powershell/"><img src="https://skillicons.dev/icons?i=powershell" height="40" alt="PowerShell logo"  /></a>&nbsp;
-  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  /></a>&nbsp;
-  <a href="https://wikipedia.org/wiki/Linux"><img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  /></a>&nbsp;
-  <a href="https://ubuntu.com/"><img src="https://skillicons.dev/icons?i=ubuntu" alt="ubuntu logo" width="45" height="45"  /></a>&nbsp;
-  <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  /></a>&nbsp;
+  <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"/></a>&nbsp;
+  <a href="https://developer.mozilla.org/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"/></a>&nbsp;
+  <a href="https://jquery.com/"><img src="https://skillicons.dev/icons?i=jquery" height="40" alt="jquery logo"/></a>&nbsp;
+  <a href="https://developer.mozilla.org/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"/></a>&nbsp;
+  <a href="https://getbootstrap.com/"><img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"/></a>&nbsp;
+  <a href="https://sass-lang.com/"><img src="https://skillicons.dev/icons?i=sass" height="40" alt="sass logo"/></a>&nbsp;
+  <a href="https://vuejs.org/"><img src="https://skillicons.dev/icons?i=vue" height="40" alt="vuejs logo"/></a>&nbsp;
+  <a href="https://babeljs.io/"><img src="https://skillicons.dev/icons?i=babel" height="40" alt="babel logo"/></a>&nbsp;
+  <a href="https://jestjs.io/"><img src="https://skillicons.dev/icons?i=jest" height="40" alt="jest logo"/></a>&nbsp;
+  <a href="https://vitejs.dev/"><img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"/></a>&nbsp;
+  <a href="https://webpack.js.org/"><img src="https://skillicons.dev/icons?i=webpack" height="40" alt="webpack logo"/></a>&nbsp;
+  <a href="https://gulpjs.com/"><img src="https://skillicons.dev/icons?i=gulp" height="40" alt="gulp logo"/></a>&nbsp;
+  <a href="https://github.com/features/actions"><img src="https://skillicons.dev/icons?i=githubactions" height="40" alt="githubactions logo"/></a>&nbsp;
+  <a href="https://wikipedia.org/wiki/Bash"><img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"/></a>&nbsp;
+  <a href="https://learn.microsoft.com/powershell/"><img src="https://skillicons.dev/icons?i=powershell" height="40" alt="PowerShell logo"/></a>&nbsp;
+  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"/></a>&nbsp;
+  <a href="https://wikipedia.org/wiki/Linux"><img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"/></a>&nbsp;
+  <a href="https://ubuntu.com/"><img src="https://skillicons.dev/icons?i=ubuntu" alt="ubuntu logo" width="45" height="45"/></a>&nbsp;
+  <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"/></a>&nbsp;
   <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="sqlite logo">&nbsp;
-  <a href="https://www.electronjs.org/"><img src="https://skillicons.dev/icons?i=electron" height="40" alt="electron logo"  /></a>&nbsp;
+  <a href="https://www.electronjs.org/"><img src="https://skillicons.dev/icons?i=electron" height="40" alt="electron logo"/></a>&nbsp;
 </div>
 
 ## Social
 
 <div align="left">
-  <a href="https://t.me/stadius_lucioni"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" height="40" alt="telegram logo"  /></a>&nbsp;
-  <a href="https://discordapp.com/users/okineadev"><img src="https://skillicons.dev/icons?i=discord" height="40" alt="discord logo"  /></a>&nbsp;
-  <a href="https://stackoverflow.com/users/21165921/simpledev"><img src="https://skillicons.dev/icons?i=stackoverflow" height="40" alt="stackoverflow logo"  /></a>
+  <a href="https://t.me/okineadev"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" height="40" alt="telegram logo"/></a>&nbsp;
+  <a href="https://discordapp.com/users/okineadev"><img src="https://skillicons.dev/icons?i=discord" height="40" alt="discord logo"/></a>&nbsp;
+  <a href="https://stackoverflow.com/users/21165921/simpledev"><img src="https://skillicons.dev/icons?i=stackoverflow" height="40" alt="stackoverflow logo"/></a>
 </div>
