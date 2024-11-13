@@ -13,9 +13,9 @@ I also have my own website, you can view it at this address: [okinea.dev](https:
 
 ### Read my latest posts on [**Medium**](https://okineadev.medium.com/):
 
-| [**How to get a free macOS machine for testing?**](https://okineadev.medium.com/how-to-get-a-free-macos-machine-for-testing-b2f6c72415fd) <br> <sub>It happens that you have created a program and want to test it <br> on different operating systems (including macOS) but if ...</sub> | [<img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/0*Q2Fal4qTIXomyZTI" height="90">](https://okineadev.medium.com/how-to-get-a-free-macos-machine-for-testing-b2f6c72415fd) |
+| [**🤖 Use AI to speed up writing commit messages**](https://okineadev.medium.com/use-ai-to-speed-up-writing-commit-messages-bonus-custom-prompt-for-improved-generation-56e43d2c5c52) <br> <sub>Using AI to instantly write clear and detailed commit messages, saving you time</sub> | [<img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*tumKaL_mG-cahZqPOqtDxQ.png" height="90">](https://okineadev.medium.com/use-ai-to-speed-up-writing-commit-messages-bonus-custom-prompt-for-improved-generation-56e43d2c5c52) |
 | :-- | :-: |
-| [**How to set up VNC on a headless Raspberry Pi...**](https://okineadev.medium.com/how-to-set-up-vnc-on-a-headless-raspberry-pi-with-ubuntu-server-24-04-96cc8ddf65bc) <br> <sub>If you have Ubuntu Server installed on your Raspberry Pi and you want <br> to connect to its interface without a monitor or mouse?</sub> | [<img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/0*xVs03KkvqExKCk_i" height="90">](https://okineadev.medium.com/how-to-set-up-vnc-on-a-headless-raspberry-pi-with-ubuntu-server-24-04-96cc8ddf65bc) |
+| [**How to get a free macOS machine for testing?**](https://okineadev.medium.com/how-to-get-a-free-macos-machine-for-testing-b2f6c72415fd) <br> <sub>It happens that you have created a program and want to test it <br> on different operating systems (including macOS) but if ...</sub> | [<img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/0*Q2Fal4qTIXomyZTI" height="90">](https://okineadev.medium.com/how-to-get-a-free-macos-machine-for-testing-b2f6c72415fd) |
 
 ## Skills
 
