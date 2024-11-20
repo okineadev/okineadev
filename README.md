@@ -8,7 +8,7 @@ My name is **Yura**, I'm 16 years old, I do web development and coding in **Pyth
 I create open source projects and if I have time, I sponsor or help other open source projects such as [vscode-material-icon-theme](https://github.com/material-extensions/vscode-material-icon-theme) and [tldr](https://github.com/tldr-pages/tldr)
 
 <br>
-<p><img src="https://gist.githubusercontent.com/okineadev/d697a75124d5158cd362fe9de3e8d9df/raw/2840220b326f653b7b43500d54f26ac623cfe146/underline.svg" width="500" align="left"></p><br>
+<p><img src="https://gist.githubusercontent.com/okineadev/d697a75124d5158cd362fe9de3e8d9df/raw/f51dc2732a9dc7c1c82f32f4dfec786c0448049b/underline.svg" width="500" align="left"></p><br>
 
 ### Read my latest posts on [**Medium**](https://okineadev.medium.com/):
 | [**🤖 Use AI to speed up writing commit messages**](https://okineadev.medium.com/use-ai-to-speed-up-writing-commit-messages-bonus-custom-prompt-for-improved-generation-56e43d2c5c52) <br> <sub>Using AI to instantly write clear and detailed commit messages, saving you time</sub> | [<img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*tumKaL_mG-cahZqPOqtDxQ.png" height="90">](https://okineadev.medium.com/use-ai-to-speed-up-writing-commit-messages-bonus-custom-prompt-for-improved-generation-56e43d2c5c52) |
