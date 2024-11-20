@@ -45,10 +45,10 @@ I create open source projects and if I have time, I sponsor or help other open s
 
 ## <img src="https://gist.githubusercontent.com/okineadev/6ce685e5c6d23ca3a8063b00386091e4/raw/ecb0f716adb1310e1e3caa789143dea6e4e40fcd/social.svg" align="bottom" height="22">&nbsp;&nbsp;Socials
 
+<img src="https://gist.githubusercontent.com/okineadev/1d42cd05ebc4ad300c00fe42a4ea2014/raw/33920555a9f477fe69fa9381d9508657f23d8c0c/toast.svg" align="right" alt="Have a nice day!">
+
 <div align="left">
   <a href="https://t.me/okineadev"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" height="40" alt="telegram logo"/></a>&nbsp;
   <a href="https://discordapp.com/users/okineadev"><img src="https://skillicons.dev/icons?i=discord" height="40" alt="discord logo"/></a>&nbsp;
   <a href="https://stackoverflow.com/users/21165921/simpledev"><img src="https://skillicons.dev/icons?i=stackoverflow" height="40" alt="stackoverflow logo"/></a>
 </div>
-
-<img src="https://gist.githubusercontent.com/okineadev/1d42cd05ebc4ad300c00fe42a4ea2014/raw/33920555a9f477fe69fa9381d9508657f23d8c0c/toast.svg" align="right">
