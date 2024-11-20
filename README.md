@@ -1,5 +1,4 @@
-<img align="right" width="400" src="https://github.com/user-attachments/assets/a863a865-2176-477b-bf5b-320b457e2ae2">
-
+<img align="right" width="300" src="https://github.com/user-attachments/assets/3b446180-c821-44fb-b942-dd258242a9c9">
 
 # Hi <img align="bottom" src="https://raw.githubusercontent.com/okineadev/okineadev-website/main/src/emojis/hello.webp" alt="Hello" width="28">, I'm Okinea Dev
 <h3>A developer from Ukraine <img align="top" src="https://raw.githubusercontent.com/okineadev/okineadev-website/main/src/emojis/ua-flag.webp" alt="UA Flag" height="24"></h3>
