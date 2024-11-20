@@ -1,18 +1,17 @@
-<img align="right" width="450" src="assets/bubbles.webp">
+<img align="right" width="400" src="https://github.com/user-attachments/assets/a863a865-2176-477b-bf5b-320b457e2ae2">
+
 
 # Hi <img align="bottom" src="https://raw.githubusercontent.com/okineadev/okineadev-website/main/src/emojis/hello.webp" alt="Hello" width="28">, I'm Okinea Dev
 <h3>A developer from Ukraine <img align="top" src="https://raw.githubusercontent.com/okineadev/okineadev-website/main/src/emojis/ua-flag.webp" alt="UA Flag" height="24"></h3>
-
-[![I use Bun](https://img.shields.io/badge/-I_use_Bun-%23fbf0df?logo=Bun&logoColor=%23fbf0df&labelColor=black)](https://bun.sh)
 
 My name is **Yura**, I'm 16 years old, I do web development and coding in **Python**, **JavaScript** and **Bash**, and I'm also good at automation with **GitHub Actions**.
 
 I create open source projects and if I have time, I sponsor or help other open source projects such as [vscode-material-icon-theme](https://github.com/material-extensions/vscode-material-icon-theme) and [tldr](https://github.com/tldr-pages/tldr)
 
-I also have my own website, you can view it at this address: [okinea.dev](https://okinea.dev/)
+<br>
+<p><img src="https://gist.githubusercontent.com/okineadev/d697a75124d5158cd362fe9de3e8d9df/raw/2840220b326f653b7b43500d54f26ac623cfe146/underline.svg" width="500"></p>
 
 ### Read my latest posts on [**Medium**](https://okineadev.medium.com/):
-
 | [**🤖 Use AI to speed up writing commit messages**](https://okineadev.medium.com/use-ai-to-speed-up-writing-commit-messages-bonus-custom-prompt-for-improved-generation-56e43d2c5c52) <br> <sub>Using AI to instantly write clear and detailed commit messages, saving you time</sub> | [<img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*tumKaL_mG-cahZqPOqtDxQ.png" height="90">](https://okineadev.medium.com/use-ai-to-speed-up-writing-commit-messages-bonus-custom-prompt-for-improved-generation-56e43d2c5c52) |
 | :-- | :-: |
 | [**How to get a free macOS machine for testing?**](https://okineadev.medium.com/how-to-get-a-free-macos-machine-for-testing-b2f6c72415fd) <br> <sub>It happens that you have created a program and want to test it <br> on different operating systems (including macOS) but if ...</sub> | [<img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/0*Q2Fal4qTIXomyZTI" height="90">](https://okineadev.medium.com/how-to-get-a-free-macos-machine-for-testing-b2f6c72415fd) |
