@@ -15,7 +15,7 @@ I create open source projects and if I have time, I sponsor or help other open s
 | :-- | :-: |
 | [**How to get a free macOS machine for testing?**](https://okineadev.medium.com/how-to-get-a-free-macos-machine-for-testing-b2f6c72415fd) <br> <sub>It happens that you have created a program and want to test it <br> on different operating systems (including macOS) but if ...</sub> | [<img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/0*Q2Fal4qTIXomyZTI" height="90">](https://okineadev.medium.com/how-to-get-a-free-macos-machine-for-testing-b2f6c72415fd) |
 
-## Skills
+## <img src="https://gist.githubusercontent.com/okineadev/0667f71166c166f75fdfe4c2807395a8/raw/af129989e60288bf57a56056f75af4678c029d07/lightning.svg" align="bottom" height="22">&nbsp;&nbsp;Skills
 
 <div align="left">
   <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"/></a>&nbsp;
@@ -43,7 +43,7 @@ I create open source projects and if I have time, I sponsor or help other open s
   <a href="https://www.electronjs.org/"><img src="https://skillicons.dev/icons?i=electron" height="40" alt="electron logo"/></a>&nbsp;
 </div>
 
-## Social
+## <img src="https://gist.githubusercontent.com/okineadev/6ce685e5c6d23ca3a8063b00386091e4/raw/ecb0f716adb1310e1e3caa789143dea6e4e40fcd/social.svg" align="bottom" height="22">&nbsp;&nbsp;Socials
 
 <div align="left">
   <a href="https://t.me/okineadev"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" height="40" alt="telegram logo"/></a>&nbsp;
