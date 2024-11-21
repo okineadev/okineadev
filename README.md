@@ -1,7 +1,7 @@
 <!-- markdownlint-disable no-inline-html first-line-h1 no-alt-text -->
 
 <picture>
-  <source srcset="" media="(max-width: 1000px)" width="0" height="0">
+  <source srcset="" media="(max-width: 900px)" width="0" height="0">
   <img align="right" width="300" src="assets/glass.png">
 </picture>
 
