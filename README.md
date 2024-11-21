@@ -1,6 +1,9 @@
 <!-- markdownlint-disable no-inline-html first-line-h1 no-alt-text -->
 
-<img align="right" width="300" src="assets/glass.png">
+<picture>
+  <source srcset="" media="(max-width: 900px)" width="0" height="0">
+  <img align="right" width="300" src="assets/glass.png">
+</picture>
 
 # Hi <img align="bottom" src="assets/hello.png" width="28">, I'm Okinea Dev
 
