@@ -63,7 +63,7 @@ I create open source projects and if I have time, I sponsor or help other open s
 <picture>
   <source srcset="assets/toast-white.svg" media="(prefers-color-scheme: dark)">
   <source srcset="assets/toast-black.svg" media="(prefers-color-scheme: light)">
-  <img src="assets/underline-white.svg" width="250" align="right" alt="Have a nice day!">
+  <img src="assets/toast-white.svg" width="250" align="right" alt="Have a nice day!">
 </picture>
 
 <div align="left">
