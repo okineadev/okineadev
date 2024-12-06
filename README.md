@@ -10,9 +10,9 @@
 <!-- markdownlint-disable-next-line heading-increment-->
 ### A developer from Ukraine <img align="top" src="assets/ua-flag.png" height="24">
 
-My name is **Yura**, I'm 16 years old, I do web development and coding in **Python**, **JavaScript** and **Bash**, and I'm also good at automation with **GitHub Actions**.
+My name is **Yura**, I'm 16 years old, programmer, designer, I create cool websites, amazing CLI applications and I also write posts on Medium from time to time :)
 
-I create open source projects and if I have time, I sponsor or help other open source projects such as [vscode-material-icon-theme](https://github.com/material-extensions/vscode-material-icon-theme) and [tldr](https://github.com/tldr-pages/tldr)
+I work on open source projects, create my own and help others. I am the maintainer of the [**Material Icon Theme**](https://github.com/material-extensions/vscode-material-icon-theme) extension for VS Code, Co-founder of [**Zgalera Inc.**](https://github.com/ZGalera)
 
 <br>
 
