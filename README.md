@@ -69,7 +69,7 @@ My contacts are available directly in the terminal 👉 `npx okineadev`
 </picture>
 
 <div align="left">
-  <a href="https://t.me/okineadev"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" height="40" alt="telegram"/></a>&nbsp;
+  <a href="https://telegram.okinea.dev"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" height="40" alt="telegram"/></a>&nbsp;
   <a href="https://discordapp.com/users/okineadev"><img src="https://skillicons.dev/icons?i=discord" height="40" alt="discord"/></a>&nbsp;
   <a href="https://stackoverflow.com/users/21165921/simpledev"><img src="https://skillicons.dev/icons?i=stackoverflow" height="40" alt="stackoverflow"/></a>
 </div>
