@@ -2,7 +2,7 @@
 
 <picture>
   <source srcset="" media="(max-width: 900px)" width="0" height="0">
-  <img align="right" width="300" src="assets/glass.png">
+  <img align="right" width="300" src="https://github.com/user-attachments/assets/a8afd3c9-0f2b-4b29-806f-377151029de0">
 </picture>
 
 # Hi <img align="bottom" src="assets/hello.png" width="28">, I'm Okinea Dev
