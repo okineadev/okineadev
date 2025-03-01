@@ -14,7 +14,7 @@ My name is **Yura**, I'm 16 years old, programmer, designer, I create cool websi
 
 I work on open source projects, create my own and help others. I am the (ex) maintainer of the [**Material Icon Theme**](https://github.com/material-extensions/vscode-material-icon-theme) extension for VS Code, Co-founder of [**Zgalera Inc.**](https://github.com/ZGalera)
 
-My website is also available in the terminal, if you don't believe it - **try it**! 👉 `curl -L okinea.dev`
+My website is also available in the terminal, **try it!** 👉 `curl -L okinea.dev`
 
 <br>
 
