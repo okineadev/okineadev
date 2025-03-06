@@ -1,15 +1,15 @@
-<!-- markdownlint-disable no-inline-html first-line-h1 no-alt-text -->
+<!-- markdownlint-disable no-inline-html first-line-h1 -->
 
 <picture>
   <source srcset="" media="(max-width: 900px)" width="0" height="0">
-  <img align="right" width="300" src="assets/animation.gif">
+  <img align="right" width="300" height="300" src="assets/animation.gif" alt="">
 </picture>
 
-# Hi <img align="bottom" src="assets/hello.png" width="28">, I'm Okinea Dev
+# Hi <img align="bottom" src="assets/emojis/hello.png" width="28" alt="👋">, I'm Okinea Dev
 
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable-next-line heading-increment-->
-### A developer from Ukraine <img align="top" src="assets/ua-flag.png" height="24">
+### A developer from Ukraine <img align="top" src="assets/emojis/ua-flag.png" height="24" alt="🇺🇦">
 <!-- prettier-ignore-end -->
 
 My name is **Yura**, I'm 16 years old, programmer, designer, I create cool websites, amazing CLI applications and I also write posts on Medium from time to time :)
@@ -23,18 +23,18 @@ My website is also available in the terminal, **try it!** 👉 `curl -L okinea.d
 <picture>
   <source srcset="assets/underline-white.svg" media="(prefers-color-scheme: dark)">
   <source srcset="assets/underline-black.svg" media="(prefers-color-scheme: light)">
-  <img src="assets/underline-white.svg" width="500" align="left">
+  <img src="assets/underline-white.svg" width="500" align="left" alt="—————————————————————————————">
 </picture>
 
 <br><br>
 
 ### Read my latest posts on [**Medium**](https://okineadev.medium.com/)
 
-| [**🤖 Use AI to speed up writing commit messages**](https://okineadev.medium.com/use-ai-to-speed-up-writing-commit-messages-bonus-custom-prompt-for-improved-generation-56e43d2c5c52) <br> <sub>Using AI to instantly write clear and detailed commit messages, saving you time</sub>     | [<img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*tumKaL_mG-cahZqPOqtDxQ.png" height="90">](https://okineadev.medium.com/use-ai-to-speed-up-writing-commit-messages-bonus-custom-prompt-for-improved-generation-56e43d2c5c52) |
-| :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| [**How to get a free macOS machine for testing?**](https://okineadev.medium.com/how-to-get-a-free-macos-machine-for-testing-b2f6c72415fd) <br> <sub>It happens that you have created a program and want to test it <br> on different operating systems (including macOS) but if ...</sub> |                           [<img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/0*Q2Fal4qTIXomyZTI" height="90">](https://okineadev.medium.com/how-to-get-a-free-macos-machine-for-testing-b2f6c72415fd)                            |
+| [**🤖 Use AI to speed up writing commit messages**](https://okineadev.medium.com/use-ai-to-speed-up-writing-commit-messages-bonus-custom-prompt-for-improved-generation-56e43d2c5c52) <br> <sub>Using AI to instantly write clear and detailed commit messages, saving you time</sub>     | [<img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*tumKaL_mG-cahZqPOqtDxQ.png" height="90" alt="Post banner">](https://okineadev.medium.com/use-ai-to-speed-up-writing-commit-messages-bonus-custom-prompt-for-improved-generation-56e43d2c5c52) |
+| :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| [**How to get a free macOS machine for testing?**](https://okineadev.medium.com/how-to-get-a-free-macos-machine-for-testing-b2f6c72415fd) <br> <sub>It happens that you have created a program and want to test it <br> on different operating systems (including macOS) but if ...</sub> |                           [<img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/0*Q2Fal4qTIXomyZTI" height="90" alt="Post banner">](https://okineadev.medium.com/how-to-get-a-free-macos-machine-for-testing-b2f6c72415fd)                            |
 
-## <picture><source srcset="assets/lightning-white.svg" media="(prefers-color-scheme: dark)"><source srcset="assets/lightning-black.svg" media="(prefers-color-scheme: light)"><img src="assets/lightning-white.svg" width="22" align="bottom"></picture>&nbsp;&nbsp;Skills
+## <picture><source srcset="assets/icons/lightning-white.svg" media="(prefers-color-scheme: dark)"><source srcset="assets/icons/lightning-black.svg" media="(prefers-color-scheme: light)"><img src="assets/icons/lightning-white.svg" width="22" align="bottom" alt="⚡"></picture>&nbsp;&nbsp;Skills
 
 <div align="left">
   <a href="https://www.python.org/" target="_blank" aria-label="Python"><img src="https://go-skill-icons.vercel.app/api/icons?i=py" alt="python logo" width="40" height="40" /></a>&nbsp;
@@ -63,7 +63,7 @@ My website is also available in the terminal, **try it!** 👉 `curl -L okinea.d
   <a href="https://inkscape.org/" target="_blank" aria-label="Inkscape"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg" alt="inkscape logo" width="40" height="40" /></a>
 </div>
 
-## <picture><source srcset="assets/globe-white.svg" media="(prefers-color-scheme: dark)"><source srcset="assets/globe-black.svg" media="(prefers-color-scheme: light)"><img src="assets/globe-white.svg" width="22" align="bottom"></picture>&nbsp;&nbsp;Socials
+## <picture><source srcset="assets/icons/globe-white.svg" media="(prefers-color-scheme: dark)"><source srcset="assets/icons/globe-black.svg" media="(prefers-color-scheme: light)"><img src="assets/icons/globe-white.svg" width="22" align="bottom" alt="🌐"></picture>&nbsp;&nbsp;Socials
 
 <picture>
   <source srcset="assets/toast-white.svg" media="(prefers-color-scheme: dark)">
