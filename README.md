@@ -30,9 +30,13 @@ My website is also available in the terminal, **try it!** 👉 `curl -L okinea.d
 
 ### Read my latest posts on [**Medium**](https://okineadev.medium.com/)
 
-| [**🤖 Use AI to speed up writing commit messages**](https://okineadev.medium.com/use-ai-to-speed-up-writing-commit-messages-bonus-custom-prompt-for-improved-generation-56e43d2c5c52) <br> <sub>Using AI to instantly write clear and detailed commit messages, saving you time</sub>     | [<img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*tumKaL_mG-cahZqPOqtDxQ.png" height="90" alt="Post banner">](https://okineadev.medium.com/use-ai-to-speed-up-writing-commit-messages-bonus-custom-prompt-for-improved-generation-56e43d2c5c52) |
-| :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| [**How to get a free macOS machine for testing?**](https://okineadev.medium.com/how-to-get-a-free-macos-machine-for-testing-b2f6c72415fd) <br> <sub>It happens that you have created a program and want to test it <br> on different operating systems (including macOS) but if ...</sub> |                           [<img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/0*Q2Fal4qTIXomyZTI" height="90" alt="Post banner">](https://okineadev.medium.com/how-to-get-a-free-macos-machine-for-testing-b2f6c72415fd)                            |
+<a href="https://okineadev.medium.com/use-ai-to-speed-up-writing-commit-messages-bonus-custom-prompt-for-improved-generation-56e43d2c5c52">
+    <img src="assets/Medium%20post%201.png" alt="🤖 Use AI to speed up writing commit messages" width="670">
+</a>
+<br>
+<a href="https://okineadev.medium.com/how-to-get-a-free-macos-machine-for-testing-b2f6c72415fd">
+    <img src="assets/Medium%20post%202.png" alt="How to get a free macOS machine for testing" width="670">
+</a>
 
 ## <picture><source srcset="assets/icons/lightning-white.svg" media="(prefers-color-scheme: dark)"><source srcset="assets/icons/lightning-black.svg" media="(prefers-color-scheme: light)"><img src="assets/icons/lightning-white.svg" width="22" align="bottom" alt="⚡"></picture>&nbsp;&nbsp;Skills
 
@@ -63,13 +67,19 @@ My website is also available in the terminal, **try it!** 👉 `curl -L okinea.d
   <a href="https://inkscape.org/" target="_blank" aria-label="Inkscape"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg" alt="inkscape logo" width="40" height="40" /></a>
 </div>
 
+<br>
+
+<a href="CV/Yurii_Bogdan_CV_v0.1.pdf">
+  <img src="assets/badges/CV.png" alt="📄 CV / Resume" width="150">
+</a>
+
 ## <picture><source srcset="assets/icons/globe-white.svg" media="(prefers-color-scheme: dark)"><source srcset="assets/icons/globe-black.svg" media="(prefers-color-scheme: light)"><img src="assets/icons/globe-white.svg" width="22" align="bottom" alt="🌐"></picture>&nbsp;&nbsp;Socials
 
-<picture>
+<!-- <picture>
   <source srcset="assets/toast-white.svg" media="(prefers-color-scheme: dark)">
   <source srcset="assets/toast-black.svg" media="(prefers-color-scheme: light)">
   <img src="assets/toast-white.svg" width="250" align="right" alt="Have a nice day!">
-</picture>
+</picture> -->
 
 <div align="left">
   <a href="https://telegram.okinea.dev"><img src="https://go-skill-icons.vercel.app/api/icons?i=telegram" width="40" height="40" alt="telegram" /></a>&nbsp;
