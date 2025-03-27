@@ -31,11 +31,15 @@ My website is also available in the terminal, **try it!** 👉 `curl -L okinea.d
 ### Read my latest posts on [**Medium**](https://okineadev.medium.com/)
 
 <a href="https://okineadev.medium.com/use-ai-to-speed-up-writing-commit-messages-bonus-custom-prompt-for-improved-generation-56e43d2c5c52">
-    <img src="assets/Medium%20post%201.png" alt="🤖 Use AI to speed up writing commit messages" width="670">
+  <img src="assets/Medium%20post%201.png" alt="🤖 Use AI to speed up writing commit messages" width="670">
 </a>
 <br>
 <a href="https://okineadev.medium.com/how-to-get-a-free-macos-machine-for-testing-b2f6c72415fd">
-    <img src="assets/Medium%20post%202.png" alt="How to get a free macOS machine for testing" width="670">
+  <img src="assets/Medium%20post%202.png" alt="How to get a free macOS machine for testing" width="670">
+</a>
+<br>
+<a href="https://okineadev.medium.com/generate-llms-txt-for-your-documentation-website-on-vitepress-64762cc1150b">
+  <img src="assets/Medium%20post%203.png" alt="Generate /llms.txt for your documentation website on VitePress" width="740">
 </a>
 
 ## <picture><source srcset="assets/icons/lightning-white.svg" media="(prefers-color-scheme: dark)"><source srcset="assets/icons/lightning-black.svg" media="(prefers-color-scheme: light)"><img src="assets/icons/lightning-white.svg" width="22" align="bottom" alt="⚡"></picture>&nbsp;&nbsp;Skills
