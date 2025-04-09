@@ -42,7 +42,7 @@ My website is also available in the terminal, **try it!** 👉 `curl -L okinea.d
   <img src="assets/Medium%20post%203.png" alt="Generate /llms.txt for your documentation website on VitePress" width="740">
 </a>
 
-## <picture><source srcset="assets/icons/lightning-white.svg" media="(prefers-color-scheme: dark)"><source srcset="assets/icons/lightning-black.svg" media="(prefers-color-scheme: light)"><img src="assets/icons/lightning-white.svg" width="22" align="bottom" alt="⚡"></picture>&nbsp;&nbsp;Skills
+## <sub><picture><source srcset="assets/icons/lightning-white.svg" media="(prefers-color-scheme: dark)"><source srcset="assets/icons/lightning-black.svg" media="(prefers-color-scheme: light)"><img src="assets/icons/lightning-white.svg" width="22" valign="top" alt="⚡"></picture></sub>&nbsp;&nbsp;Skills
 
 <div align="left">
   <a href="https://www.python.org/" target="_blank" aria-label="Python"><img src="https://go-skill-icons.vercel.app/api/icons?i=py" alt="python logo" width="40" height="40" /></a>&nbsp;
@@ -77,7 +77,7 @@ My website is also available in the terminal, **try it!** 👉 `curl -L okinea.d
   <img src="assets/badges/CV.png" alt="📄 CV / Resume" width="150">
 </a>
 
-## <picture><source srcset="assets/icons/globe-white.svg" media="(prefers-color-scheme: dark)"><source srcset="assets/icons/globe-black.svg" media="(prefers-color-scheme: light)"><img src="assets/icons/globe-white.svg" width="22" align="bottom" alt="🌐"></picture>&nbsp;&nbsp;Socials
+## <sub><picture><source srcset="assets/icons/globe-white.svg" media="(prefers-color-scheme: dark)"><source srcset="assets/icons/globe-black.svg" media="(prefers-color-scheme: light)"><img src="assets/icons/globe-white.svg" width="22" valign="top" alt="🌐"></picture></sub>&nbsp;&nbsp;Socials
 
 <!-- <picture>
   <source srcset="assets/toast-white.svg" media="(prefers-color-scheme: dark)">
