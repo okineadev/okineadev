@@ -45,30 +45,30 @@ My website is also available in the terminal, **try it!** 👉 `curl -L okinea.d
 ## <sub><picture><source srcset="assets/icons/lightning-white.svg" media="(prefers-color-scheme: dark)"><source srcset="assets/icons/lightning-black.svg" media="(prefers-color-scheme: light)"><img src="assets/icons/lightning-white.svg" width="22" valign="top" alt="⚡"></picture></sub>&nbsp;&nbsp;Skills
 
 <div align="left">
-  <a href="https://www.python.org/" target="_blank" aria-label="Python"><img src="https://go-skill-icons.vercel.app/api/icons?i=py" alt="python logo" width="40" height="40" /></a>&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" aria-label="JavaScript"><img src="https://go-skill-icons.vercel.app/api/icons?i=js" alt="javascript logo" width="40" height="40" /></a>&nbsp;
-  <a href="https://www.typescriptlang.org/" target="_blank" aria-label="TypeScript"><img src="https://go-skill-icons.vercel.app/api/icons?i=ts" alt="typescript logo" width="40" height="40" /></a>&nbsp;
-  <a href="https://vite.dev/" target="_blank" aria-label="Vite"><img src="https://go-skill-icons.vercel.app/api/icons?i=vite" alt="vite logo" width="40" height="40" /></a>&nbsp;
-  <a href="https://vuejs.org/" target="_blank" aria-label="Vue.js"><img src="https://go-skill-icons.vercel.app/api/icons?i=vue" alt="vuejs logo" width="40" height="40" /></a>&nbsp;
-  <a href="https://svelte.dev/" target="_blank" aria-label="Svelte"><img src="https://go-skill-icons.vercel.app/api/icons?i=svelte" alt="svelte logo" width="40" height="40" /></a>&nbsp;
-  <a href="https://sass-lang.com/" target="_blank" aria-label="Sass"><img src="https://go-skill-icons.vercel.app/api/icons?i=sass" alt="sass logo" width="40" height="40" /></a>&nbsp;
-  <a href="https://tailwindcss.com/" target="_blank" aria-label="Tailwind CSS"><img src="https://go-skill-icons.vercel.app/api/icons?i=tailwindcss" alt="tailwindcss logo" width="40" height="40" /></a>&nbsp;
-  <a href="https://ui.shadcn.com/" target="_blank" aria-label="shadcn"><img src="https://go-skill-icons.vercel.app/api/icons?i=shadcn" alt="shadcn logo" width="40" height="40" /></a>&nbsp;
-  <a href="https://bun.sh" target="_blank" aria-label="Bun"><img src="https://go-skill-icons.vercel.app/api/icons?i=bun" alt="bun logo" width="40" height="40" /></a>&nbsp;
-  <a href="https://elysiajs.com/" target="_blank" aria-label="ElysiaJS"><img src="https://go-skill-icons.vercel.app/api/icons?i=elysia" alt="elysia logo" width="40" height="40" /></a>&nbsp;
-  <a href="https://github.com/features/actions" target="_blank" aria-label="GitHub Actions"><img src="https://go-skill-icons.vercel.app/api/icons?i=githubactions" alt="githubactions logo" width="40" height="40" /></a>&nbsp;
-  <a href="https://jestjs.io/" target="_blank" aria-label="Jest"><img src="https://go-skill-icons.vercel.app/api/icons?i=jest" alt="jest logo" width="40" height="40" /></a>&nbsp;
-  <a href="https://webpack.js.org/" target="_blank" aria-label="Webpack"><img src="https://go-skill-icons.vercel.app/api/icons?i=webpack" alt="webpack logo" width="40" height="40" /></a>&nbsp;
-  <a href="https://gulpjs.com/" target="_blank" aria-label="Gulp"><img src="https://go-skill-icons.vercel.app/api/icons?i=gulp" alt="gulp logo" width="40" height="40" /></a>&nbsp;
-  <a href="https://wikipedia.org/wiki/Bash" target="_blank" aria-label="Bash"><img src="https://go-skill-icons.vercel.app/api/icons?i=bash" alt="bash logo" width="40" height="40" /></a>&nbsp;
-  <a href="https://learn.microsoft.com/powershell/" target="_blank" aria-label="PowerShell"><img src="https://go-skill-icons.vercel.app/api/icons?i=powershell" alt="PowerShell logo" width="40" height="40" /></a>&nbsp;
-  <a href="https://www.docker.com/" target="_blank" aria-label="Docker"><img src="https://go-skill-icons.vercel.app/api/icons?i=docker" alt="docker logo" width="40" height="40" /></a>&nbsp;
-  <a href="https://www.sqlite.org/" target="_blank" aria-label="SQLite"><img src="https://go-skill-icons.vercel.app/api/icons?i=sqlite" alt="sqlite logo" width="40" height="40" /></a>&nbsp;
-  <a href="https://www.electronjs.org/" target="_blank" aria-label="Electron"><img src="https://go-skill-icons.vercel.app/api/icons?i=electron" alt="electron logo" width="40" height="40" /></a>&nbsp;
-  <a href="https://www.figma.com/" target="_blank" aria-label="Figma"><img src="https://go-skill-icons.vercel.app/api/icons?i=figma" alt="figma logo" width="40" height="40" /></a>&nbsp;
-  <a href="https://www.adobe.com/products/photoshop.html" target="_blank" aria-label="Photoshop"><img src="https://go-skill-icons.vercel.app/api/icons?i=ps" alt="photoshop logo" width="40" height="40" /></a>&nbsp;
-  <a href="https://www.canva.com/" target="_blank" aria-label="Canva"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="canva logo" width="40" height="40" /></a>&nbsp;
-  <a href="https://inkscape.org/" target="_blank" aria-label="Inkscape"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg" alt="inkscape logo" width="40" height="40" /></a>
+  <a href="https://www.python.org/" target="_blank" aria-label="Python"><img src="https://go-skill-icons.vercel.app/api/icons?i=py" alt="python logo" width="50" height="50" /></a>&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" aria-label="JavaScript"><img src="https://go-skill-icons.vercel.app/api/icons?i=js" alt="javascript logo" width="50" height="50" /></a>&nbsp;
+  <a href="https://www.typescriptlang.org/" target="_blank" aria-label="TypeScript"><img src="https://go-skill-icons.vercel.app/api/icons?i=ts" alt="typescript logo" width="50" height="50" /></a>&nbsp;
+  <a href="https://vite.dev/" target="_blank" aria-label="Vite"><img src="https://go-skill-icons.vercel.app/api/icons?i=vite" alt="vite logo" width="50" height="50" /></a>&nbsp;
+  <a href="https://vuejs.org/" target="_blank" aria-label="Vue.js"><img src="https://go-skill-icons.vercel.app/api/icons?i=vue" alt="vuejs logo" width="50" height="50" /></a>&nbsp;
+  <a href="https://svelte.dev/" target="_blank" aria-label="Svelte"><img src="https://go-skill-icons.vercel.app/api/icons?i=svelte" alt="svelte logo" width="50" height="50" /></a>&nbsp;
+  <a href="https://sass-lang.com/" target="_blank" aria-label="Sass"><img src="https://go-skill-icons.vercel.app/api/icons?i=sass" alt="sass logo" width="50" height="50" /></a>&nbsp;
+  <a href="https://tailwindcss.com/" target="_blank" aria-label="Tailwind CSS"><img src="https://go-skill-icons.vercel.app/api/icons?i=tailwindcss" alt="tailwindcss logo" width="50" height="50" /></a>&nbsp;
+  <a href="https://ui.shadcn.com/" target="_blank" aria-label="shadcn"><img src="https://go-skill-icons.vercel.app/api/icons?i=shadcn" alt="shadcn logo" width="50" height="50" /></a>&nbsp;
+  <a href="https://bun.sh" target="_blank" aria-label="Bun"><img src="https://go-skill-icons.vercel.app/api/icons?i=bun" alt="bun logo" width="50" height="50" /></a>&nbsp;
+  <a href="https://elysiajs.com/" target="_blank" aria-label="ElysiaJS"><img src="https://go-skill-icons.vercel.app/api/icons?i=elysia" alt="elysia logo" width="50" height="50" /></a>&nbsp;
+  <a href="https://github.com/features/actions" target="_blank" aria-label="GitHub Actions"><img src="https://go-skill-icons.vercel.app/api/icons?i=githubactions" alt="githubactions logo" width="50" height="50" /></a>&nbsp;
+  <a href="https://jestjs.io/" target="_blank" aria-label="Jest"><img src="https://go-skill-icons.vercel.app/api/icons?i=jest" alt="jest logo" width="50" height="50" /></a>&nbsp;
+  <a href="https://webpack.js.org/" target="_blank" aria-label="Webpack"><img src="https://go-skill-icons.vercel.app/api/icons?i=webpack" alt="webpack logo" width="50" height="50" /></a>&nbsp;
+  <a href="https://gulpjs.com/" target="_blank" aria-label="Gulp"><img src="https://go-skill-icons.vercel.app/api/icons?i=gulp" alt="gulp logo" width="50" height="50" /></a>&nbsp;
+  <a href="https://wikipedia.org/wiki/Bash" target="_blank" aria-label="Bash"><img src="https://go-skill-icons.vercel.app/api/icons?i=bash" alt="bash logo" width="50" height="50" /></a>&nbsp;
+  <a href="https://learn.microsoft.com/powershell/" target="_blank" aria-label="PowerShell"><img src="https://go-skill-icons.vercel.app/api/icons?i=powershell" alt="PowerShell logo" width="50" height="50" /></a>&nbsp;
+  <a href="https://www.docker.com/" target="_blank" aria-label="Docker"><img src="https://go-skill-icons.vercel.app/api/icons?i=docker" alt="docker logo" width="50" height="50" /></a>&nbsp;
+  <a href="https://www.sqlite.org/" target="_blank" aria-label="SQLite"><img src="https://go-skill-icons.vercel.app/api/icons?i=sqlite" alt="sqlite logo" width="50" height="50" /></a>&nbsp;
+  <a href="https://www.electronjs.org/" target="_blank" aria-label="Electron"><img src="https://go-skill-icons.vercel.app/api/icons?i=electron" alt="electron logo" width="50" height="50" /></a>&nbsp;
+  <a href="https://www.figma.com/" target="_blank" aria-label="Figma"><img src="https://go-skill-icons.vercel.app/api/icons?i=figma" alt="figma logo" width="50" height="50" /></a>&nbsp;
+  <a href="https://www.adobe.com/products/photoshop.html" target="_blank" aria-label="Photoshop"><img src="https://go-skill-icons.vercel.app/api/icons?i=ps" alt="photoshop logo" width="50" height="50" /></a>&nbsp;
+  <a href="https://www.canva.com/" target="_blank" aria-label="Canva"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="canva logo" width="50" height="50" /></a>&nbsp;
+  <a href="https://inkscape.org/" target="_blank" aria-label="Inkscape"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg" alt="inkscape logo" width="50" height="50" /></a>
 </div>
 
 <br>
@@ -86,8 +86,8 @@ My website is also available in the terminal, **try it!** 👉 `curl -L okinea.d
 </picture> -->
 
 <div align="left">
-  <a href="https://telegram.okinea.dev"><img src="https://go-skill-icons.vercel.app/api/icons?i=telegram" width="40" height="40" alt="telegram" /></a>&nbsp;
-  <a href="https://discordapp.com/users/okineadev"><img src="https://go-skill-icons.vercel.app/api/icons?i=discord" width="40" height="40" alt="discord" /></a>&nbsp;
-  <a href="mailto:hi@okinea.dev"><img src="https://go-skill-icons.vercel.app/api/icons?i=gmail" width="40" height="40" alt="gmail" /></a>&nbsp;
-  <a href="https://stackoverflow.com/users/21165921/okinea-dev"><img src="https://go-skill-icons.vercel.app/api/icons?i=stackoverflow" width="40" height="40" alt="stackoverflow" /></a>
+  <a href="https://telegram.okinea.dev"><img src="https://go-skill-icons.vercel.app/api/icons?i=telegram" width="50" height="50" alt="telegram" /></a>&nbsp;
+  <a href="https://discordapp.com/users/okineadev"><img src="https://go-skill-icons.vercel.app/api/icons?i=discord" width="50" height="50" alt="discord" /></a>&nbsp;
+  <a href="mailto:hi@okinea.dev"><img src="https://go-skill-icons.vercel.app/api/icons?i=gmail" width="50" height="50" alt="gmail" /></a>&nbsp;
+  <a href="https://stackoverflow.com/users/21165921/okinea-dev"><img src="https://go-skill-icons.vercel.app/api/icons?i=stackoverflow" width="50" height="50" alt="stackoverflow" /></a>
 </div>
