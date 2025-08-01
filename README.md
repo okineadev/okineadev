@@ -7,11 +7,6 @@
 
 # Hi <img align="bottom" src="assets/emojis/hello.png" width="28" alt="👋">, I'm Okinea Dev
 
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable-next-line heading-increment-->
-### A developer from Ukraine <img align="top" src="assets/emojis/ua-flag.png" height="24" alt="🇺🇦">
-<!-- prettier-ignore-end -->
-
 My name is **Yura**, I'm 17 years old, programmer, designer, I create cool websites, amazing CLI applications and I also write posts on Medium from time to time :)
 
 I work on open source projects, create my own and help others. I am the (ex) maintainer of the [**Material Icon Theme**](https://github.com/material-extensions/vscode-material-icon-theme) extension for VS Code, Co-founder of [**Zgalera Inc.**](https://github.com/ZGalera)
