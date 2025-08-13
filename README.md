@@ -7,11 +7,11 @@
 
 # Hi <img align="bottom" src="assets/emojis/hello.png" width="28" alt="👋">, I'm Okinea Dev
 
-My name is **Yura**, I'm 17 years old, programmer, designer, I create cool websites, amazing CLI applications and I also write posts on Medium from time to time :)
+My name is **Yura**, I'm 17 years old, programmer, designer, I create cool websites, TypeScript libraries and amazing CLI applications :)
 
-I work on open source projects, create my own and help others. I am the (ex) maintainer of the [**Material Icon Theme**](https://github.com/material-extensions/vscode-material-icon-theme) extension for VS Code, Co-founder of [**Zgalera Inc.**](https://github.com/ZGalera)
+I work on open-source projects that solve real-world problems, and I love seeing my work make a genuine impact. Formerly contributed to the development of [**Material Icon Theme**](https://github.com/material-extensions/vscode-material-icon-theme) extension for VS Code.
 
-My website is also available in the terminal, **try it!** 👉 `curl -L okinea.dev`
+Once [mentioned](https://x.com/youyuxi/status/1918134176261521827) by [**Evan You**](https://github.com/yyx990803) — creator of **Vue.js** & **Vite** for my [vitepress-plugin-llms](https://github.com/okineadev/vitepress-plugin-llms) 🔥
 
 <br>
 
