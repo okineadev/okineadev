@@ -62,9 +62,7 @@ Once [mentioned](https://x.com/youyuxi/status/1918134176261521827) by [**Evan Yo
 
 <br>
 
-<a href="CV/Yurii_Bogdan_CV_v0.1.pdf">
-  <img src="assets/badges/CV.png" alt="📄 CV / Resume" width="150">
-</a>
+[<img src="assets/badges/CV.png" alt="📄 CV / Resume" width="150">](https://okinea.dev/cv.pdf)
 
 ## <sub><picture><source srcset="assets/icons/globe-white.svg" media="(prefers-color-scheme: dark)"><source srcset="assets/icons/globe-black.svg" media="(prefers-color-scheme: light)"><img src="assets/icons/globe-white.svg" width="22" valign="top" alt="🌐"></picture></sub>&nbsp;&nbsp;Socials
 
